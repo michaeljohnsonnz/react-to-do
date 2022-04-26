@@ -1,1 +1,17 @@
-# react-to-do
+# React Todo
+
+This is the classic todo app created in react.js as part of our class. There were some students who were strugling
+
+```bash
+# Clone git repository
+git clone https://github.com/michaeljohnsonnz/react-to-do.git
+
+# Change into the react-to-do directory
+cd react-to-do
+
+# Install the npm modules
+npm install
+
+# Start the react server
+npm start
+```
