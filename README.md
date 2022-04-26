@@ -1,6 +1,6 @@
 # React Todo
 
-This is the classic todo app created in react.js as part of our class. There were some students who were strugling
+This is the classic todo app created in react.js as part of our class. There were some students who were struggling with the setup so I quickly created this barebones project to help.
 
 ```bash
 # Clone git repository
